@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coin
+  - Left
+  - Right
+  - Up
   layers:
   - Default
   - TransparentFX
